@@ -1,0 +1,8 @@
+button{
+    width: 30px;
+    text-align: center;
+}
+
+button#reintentar{
+    width: 80px;
+}
